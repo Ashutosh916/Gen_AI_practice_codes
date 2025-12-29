@@ -2,6 +2,7 @@
 
 **Data Usage & Disclaimer
 **
+
 This project was created solely for learning and experimentation with Generative AI, web scraping, content parsing, and Markdown transformation.
 
 The repository contains only the scraping logic and code.
